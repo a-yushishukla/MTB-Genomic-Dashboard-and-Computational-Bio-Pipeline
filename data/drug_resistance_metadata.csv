@@ -1,0 +1,4 @@
+Strain_ID,Location,Rifampicin_Resistance,Isoniazid_Resistance,Lineage
+MTB_VNS_01,Varanasi,Resistant,Resistant,Lineage 2
+MTB_DEL_02,Delhi,Sensitive,Resistant,Lineage 4
+MTB_MUM_03,Mumbai,Sensitive,Sensitive,Lineage 1
